@@ -1,1 +1,1 @@
-# Kaggle-projects
+# Kaggle-Diabetes prediction project
